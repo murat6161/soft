@@ -160,8 +160,8 @@ body {
     .card {
         
         flex-grow:1;
-        /* width:25%; */
-         max-width: 150px;
+        width:25%; 
+         /*max-width: 150px;*/
         height: 150px; 
         /* overflow:auto; Otomatik yukseklik ayari yapiyor */
         position: relative;
